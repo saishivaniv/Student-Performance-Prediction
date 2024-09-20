@@ -1,0 +1,1 @@
+# evaluation technique and all functions
