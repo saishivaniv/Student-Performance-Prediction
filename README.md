@@ -34,10 +34,14 @@ https://github.com/saishivaniv/Student-Performance-Prediction.git
 ```
 
 2.  **Install the required packages**:
-    It's recommended to use a virtual environment. You can create one using `venv` or `conda`.
+It's recommended to use a virtual environment. You can create one using `venv` or `conda`.
     
 ````bash
 # For venv
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate
 ```
+
+# Install dependencies
+    pip install -r requirements.txt
+    ```
