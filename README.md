@@ -53,3 +53,14 @@ pip install -r requirements.txt
 python app.py
 ```
 Access the application at `http://127.0.0.1:5000/`.
+
+## Usage
+
+1. Open your web browser and navigate to `http://127.0.0.1:5000/`.
+2. Fill out the form with the required student information.
+3. Click the "Predict" button to view the predicted exam scores based on the input data.
+4. Review the results displayed on the screen.
+
+## Project Structure
+
+student-performance-prediction/ │ ├── src/ │ ├── exception.py │ ├── logger.py │ ├── pipeline/ │ │ ├── predict_pipeline.py │ ├── components/ │ │ ├── model_trainer.py │ └── utils.py │ ├── artifacts/ │ ├── model.pkl │ └── preprocessor.pkl │ ├── templates/ │ ├── index.html │ └── home.html │ ├── requirements.txt ├── app.py └── README.md
