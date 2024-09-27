@@ -30,4 +30,5 @@ This project aims to predict student's w\exam performance based on several input
 To set up this project locally, follow these steps -
 1. **Clone the repository**:
 '''bash
+https://github.com/saishivaniv/Student-Performance-Prediction.git
 '''
