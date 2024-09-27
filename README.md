@@ -64,5 +64,7 @@ Access the application at `http://127.0.0.1:5000/`.
 ## Project Structure
 
 ```
-student-performance-prediction/ │ ├── src/ │ ├── exception.py │ ├── logger.py │ ├── pipeline/ │ │ ├── predict_pipeline.py │ ├── components/ │ │ ├── model_trainer.py │ └── utils.py │ ├── artifacts/ │ ├── model.pkl │ └── preprocessor.pkl │ ├── templates/ │ ├── index.html │ └── home.html │ ├── requirements.txt ├── app.py └── README.md
+student-performance-prediction/
+    ├── src/ │
+      ├── exception.py │ ├── logger.py │ ├── pipeline/ │ │ ├── predict_pipeline.py │ ├── components/ │ │ ├── model_trainer.py │ └── utils.py │ ├── artifacts/ │ ├── model.pkl │ └── preprocessor.pkl │ ├── templates/ │ ├── index.html │ └── home.html │ ├── requirements.txt ├── app.py └── README.md
 ```
