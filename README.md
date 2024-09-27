@@ -37,12 +37,11 @@ https://github.com/saishivaniv/Student-Performance-Prediction.git
    
 It's recommended to use a virtual environment. You can create one using `venv` or `conda`.
     
-````bash
+```bash
 # For venv
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate
 ```
-
 
 ```bash
 # Install dependencies
