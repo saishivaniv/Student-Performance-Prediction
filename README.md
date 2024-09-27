@@ -65,6 +65,24 @@ Access the application at `http://127.0.0.1:5000/`.
 
 ```
 student-performance-prediction/
-    ├── src/ │
-      ├── exception.py │ ├── logger.py │ ├── pipeline/ │ │ ├── predict_pipeline.py │ ├── components/ │ │ ├── model_trainer.py │ └── utils.py │ ├── artifacts/ │ ├── model.pkl │ └── preprocessor.pkl │ ├── templates/ │ ├── index.html │ └── home.html │ ├── requirements.txt ├── app.py └── README.md
+│
+├── src/
+│   ├── pipeline/
+│   │   ├── predict_pipeline.py    # Prediction logic
+│   │   └── model_trainer.py       # Model training script
+│   ├── logger.py                  # Custom logger implementation
+│   └── exception.py               # Custom exception handling
+│
+├── templates/
+│   ├── index.html                 # Homepage
+│   ├── home.html                  # Prediction form page
+│     
+│
+├── artifacts/                     # Model and preprocessor artifacts
+│
+├── app.py                         # Flask application
+├── requirements.txt               # Project dependencies
+├── README.md                      # This file
+└── .gitignore                     # Ignoring unnecessary files
+
 ```
