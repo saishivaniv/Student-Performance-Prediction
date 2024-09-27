@@ -1,14 +1,33 @@
 # Student Performance Prediciton
-📚 Predicting Student's Performance Using Machine Models
+📚 Predicting Student's Performance Using Machine Learning Models
 
 This project aims to predict student's w\exam performance based on several input factors like gender, race/ethnicity, parental eductioan level, test preparation course, writing score, reading score. The application utilizes various machine learning algorithms to provide accurate predictions.
 
+
+# Technologies Used
+
+- Python
+- Flask
+- Pandas
+- NumPy
+- Scikit-Learn
+- CatBoost
+- XGBoost
+- HTML
+- Jupyter Notebook
+
+
 # Features
 * Predict student performance in exams based on input features.
-* Models implemented: Random Forest,Decision Tree, Gradient Boosting,etc.
 * User-friendly web interface using Flask.
 * Real-time predicitons based on user input.
 * Handles data scaling and preprocessing.
 * Supports multiple model comparison for best performance.
 
   
+# Installation
+
+To set up this project locally, follow these steps -
+1. **Clone the repository**:
+'''bash
+'''
