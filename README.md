@@ -47,3 +47,9 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 ```
+
+3. **Run the application**:
+```bash
+python app.py
+```
+Access the application at `http://127.0.0.1:5000/`.
