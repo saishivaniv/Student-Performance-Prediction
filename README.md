@@ -1,7 +1,7 @@
 # Student Performance Prediciton
 📚 Predicting Student's Performance Using Machine Learning Models
 
-This project aims to predict student's w\exam performance based on several input factors like gender, race/ethnicity, parental eductioan level, test preparation course, writing score, reading score. The application utilizes various machine learning algorithms to provide accurate predictions.
+This project aims to predict student's w\exam performance based on several input factors like gender, race/ethnicity, parental education level, test preparation course, writing score, and reading score. The application utilizes various machine learning algorithms to provide accurate predictions.
 
 
 # Technologies Used
@@ -29,15 +29,15 @@ This project aims to predict student's w\exam performance based on several input
 
 To set up this project locally, follow these steps -
 1. **Clone the repository**:
-```bash 
+```bash
 https://github.com/saishivaniv/Student-Performance-Prediction.git
 ```
 
 2.  **Install the required packages**:
     It's recommended to use a virtual environment. You can create one using `venv` or `conda`.
     
-    ```bash
-    # For venv
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate
-    ```
+````bash
+# For venv
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate
+```
