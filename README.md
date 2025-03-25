@@ -1,7 +1,7 @@
 # Student Performance Prediction
 📚 Predicting Student's Performance Using Machine Learning Models
 
-This project aims to predict student's w\exam performance based on several input factors like gender, race/ethnicity, parental education level, test preparation course, writing score, and reading score. The application utilizes various machine learning algorithms to provide accurate predictions.
+This project aims to predict student's w\exam performance based on several input factors like gender, race/ethnicity, parental education level, test preparation course, writing score, and reading score. The application utilizes various machine-learning algorithms to provide accurate predictions.
 
 
 # Technologies Used
